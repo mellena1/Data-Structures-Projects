@@ -1,0 +1,15 @@
+lengthOfRoute 20
+numberOfTrains 3
+numberOfStations 10
+stationLocation
+s1 0
+s2 2
+s3 5
+s4 6
+s5 9
+s6 11
+s7 14
+s8 15
+s9 17
+s10 18
+rateOfPassengerArrival 10

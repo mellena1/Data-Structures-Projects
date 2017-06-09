@@ -1,0 +1,6 @@
+Table Size: 101
+Number of entries in the dictionary: 90
+Load Factor: 0.8910891089108911
+Number of buckets in use: 59
+Percentage of buckets in use: 58.415841584158414%
+Min bucket size: 1 | Average bucket size: 1 | Max bucket size: 3

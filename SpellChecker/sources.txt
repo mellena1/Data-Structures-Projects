@@ -1,0 +1,10 @@
+Sources:
+
+american-english-??.txt
+included with/derived from Linux distribution
+
+"WIT Attendance Policy"
+taken from http://www.wit.edu/catalog/currentcatalog/academic-policies/Attendance.html
+
+"The Lancashire Cotton Famine"
+taken from www.bbc.co.uk/podcasts/series/iot
